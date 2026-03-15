@@ -16,7 +16,7 @@ This repository contains the source code, analysis scripts, and documentation as
 ## Data access
 The dataset underlying the findings of this study is publicly available in Zenodo:
 
-**Dataset DOI:** [paste dataset DOI here]
+**Dataset DOI:** [10.5281/zenodo.19037785]
 
 ## Reproducibility
 To reproduce the main analyses:

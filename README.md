@@ -217,7 +217,7 @@ Because model initialization and metaheuristic optimization contain stochastic c
 
 If you use this repository, please cite the associated article and the archived software release.
 
-**Software DOI:** [paste software DOI here]
+**Software DOI:** [10.5281/zenodo.19048156](https://doi.org/10.5281/zenodo.19048156)
 
 ## License
 

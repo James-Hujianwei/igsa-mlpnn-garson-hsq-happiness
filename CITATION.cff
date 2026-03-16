@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "igsa-mlpnn-garson-hsq-happiness"
+message: "If you use this software, please cite the repository DOI and the related article."
+type: software
+authors:
+  - family-names: Hu
+    given-names: Jianwei
+repository-code: "https://github.com/your-username/igsa-mlpnn-garson-hsq-happiness"
+abstract: "Code and documentation for modeling the relationship between residents' happiness and human settlement quality using the IGSA-MLPNN-GARSON approach."
+license: MIT
